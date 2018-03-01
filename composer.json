@@ -1,8 +1,8 @@
 {
-    "name": "tmzwinkels/nprogress",
-    "description": "A nanoscopic progress bar. With realistic trickle animations to tell your users that something's happening!",
+    "name": "tmzwinkels/jqvmap",
+    "description": "jVectorMap is a vector-based, cross-browser and cross-platform component for interactive geography-related data visualization on the web.",
     "type": "component",
-    "homepage": "http://ricostacruz.com/nprogress/",
+    "homepage": "https://github.com/manifestinteractive/jqvmap",
     "author": {
         "name": "Tim Zwinkels",
         "url": "https://www.dutchcreation.com"
